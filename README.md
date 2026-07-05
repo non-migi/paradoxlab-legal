@@ -7,4 +7,4 @@
 - `/terms/` — 利用規約（日英）
 
 公開URL: https://non-migi.github.io/paradoxlab-legal/
-（カスタムドメイン paradoxlab.app を接続する場合は Settings > Pages で設定）
+
